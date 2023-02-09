@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "AutoFinvasia.DbMigrator": {
+      "commandName": "Project",
+      "commandLineArgs": "Server=LAPTOP-N4SH3ACI;Database=AutoFinvasia;\"User Id\"=sqladmin;Password=sqladmin;"
+    }
+  }
+}

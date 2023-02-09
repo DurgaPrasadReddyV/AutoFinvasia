@@ -5,6 +5,8 @@ VisualStudioVersion = 17.3.32929.385
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoFinvasia", "AutoFinvasia\AutoFinvasia.csproj", "{B58877A6-ED9A-4868-9306-DDC68ACE908E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoFinvasia.DbMigrator", "AutoFinvasia.DbMigrator\AutoFinvasia.DbMigrator.csproj", "{66C8A69A-4B5E-4093-BBC7-4E3750D04AC3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{B58877A6-ED9A-4868-9306-DDC68ACE908E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B58877A6-ED9A-4868-9306-DDC68ACE908E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B58877A6-ED9A-4868-9306-DDC68ACE908E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66C8A69A-4B5E-4093-BBC7-4E3750D04AC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66C8A69A-4B5E-4093-BBC7-4E3750D04AC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66C8A69A-4B5E-4093-BBC7-4E3750D04AC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66C8A69A-4B5E-4093-BBC7-4E3750D04AC3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
